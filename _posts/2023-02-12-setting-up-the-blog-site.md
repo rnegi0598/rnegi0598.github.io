@@ -61,12 +61,12 @@ jekyll serve
 therafter.
 
 ---
-# Step 4.2 To create jekyll site with new theme ( [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy))
-1. Fork the repo [Chirpy Starter](https://github.com/cotes2020/chirpy-starter) and name it <GH_USERNAME>.github.io 
+# Step 4.2 To create jekyll site with new theme ( [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)){:target="_blank"}
+1. Fork the repo [Chirpy Starter](https://github.com/cotes2020/chirpy-starter){:target="_blank"} and name it <GH_USERNAME>.github.io 
 1. clone it to you computer
 1. Install the dependencies using `bundle`
 1. Running the local server `bundle exec jekyll s`
-1. [How to add post](https://chirpy.cotes.page/posts/write-a-new-post/) 
+1. [How to add post](https://chirpy.cotes.page/posts/write-a-new-post/){:target="_blank"} 
 1. 
 ```bash
 git status 
