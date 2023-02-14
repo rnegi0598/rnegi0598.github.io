@@ -13,7 +13,7 @@ toc: true
       <div class='inner-div'>
         <p>this is a p tag</p>
         <span>this is a span</span><br>
-        <span>this is another span</span>
+        <span style="text-transform:uppercase" >this is another span</span>
         <span style="display:none"> this is hidden<span>
       </div>
     </div>
