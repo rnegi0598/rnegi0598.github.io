@@ -10,3 +10,4 @@ toc: true
 - [phind:The AI search engine for developers.](https://www.phind.com/)
 - [Write Conic](https://writesonic.com/) 10,000 premium words
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) works like github copilot 
+- [finChat](https://finchat.io/) chatGPT for finance
