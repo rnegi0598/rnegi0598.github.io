@@ -11,3 +11,10 @@ toc: true
 - [Write Conic](https://writesonic.com/) 10,000 premium words
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) works like github copilot 
 - [finChat](https://finchat.io/) chatGPT for finance
+
+# frontend tools
+- [SVG shape divider](https://www.shapedivider.app/)
+- [svg backgrounds](https://haikei.app/)
+- [make svg waves](https://getwaves.io/)
+- [KUTE.js](https://thednp.github.io/kute.js/index.html) SVG transform, draw SVG strokes and path morphing, plus additional CSS properties like colors, border-radius or typographic properties.
+- [fancy border radius](https://9elements.github.io/fancy-border-radius/)
